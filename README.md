@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Vadim Kalinin");
+        int income=44000;
+        int spending=30000;
+        System.out.println("Итого (руб):");
+        System.out.println(income-spending);
     }
 }
